@@ -5,9 +5,7 @@ h1 {
 	text-align: center;
 	font-family: Comic Sans MS, Comic Sans, cursive;
 }
-.row {
-	width:100%;
-}
+
 p {
 	padding:10px;
 	font-family: Comic Sans MS, Comic Sans, cursive;
@@ -24,7 +22,7 @@ div.col-lg-3 {
 	margin: 20px 1% 20px 1%;
 	}
 }
-@media (min-width: 768px) and (max-width:991px ) {
+@media (min-width: 768px) and (max-width: 991px) {
 	.col-md-2 {
 	float:left;
 	width:46%;
@@ -36,6 +34,7 @@ div.col-lg-3 {
 	margin: 10px 2% 0px 2%;
 	}
 }
+
 @media (max-width: 767px) {
 	.col-sm-1 {
 	float:left;
