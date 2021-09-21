@@ -26,8 +26,8 @@ li {
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
-.nabar-header button.navbar-toggle, .navbar-header .icon-bar {
-	border: 1px solid black;
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 2px solid #000 !important;
 }
 
 #Chicken {
